@@ -5,5 +5,6 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // base:'https://hyundai.blyskjewels.com'
-  base:'/curatordigitalnew'
+  // base:'/curatordigitalnew'
+    // "homepage": "https://hyundai.blyskjewels.com/",
 })
