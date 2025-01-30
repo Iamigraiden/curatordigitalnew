@@ -1,0 +1,28 @@
+/* about-page styling */
+.about-page{
+    padding-top: 10rem;
+}
+.our-story{
+    padding-bottom: 5rem;
+}
+.col-title:before {
+    background: #ff491b;
+    content: "";
+    display: inline-block;
+    height: 2px;
+    width: 4rem;
+    margin-right: 20px;
+    position: relative;
+    top: -10px;
+}
+.about-mid{
+    padding: 6rem 0;
+    background-color: #131313;
+}
+.about-mid-who{
+    padding-bottom: 5rem;
+}
+.text-c p{
+    opacity: .7;
+    font-size: 1.1rem;
+}
